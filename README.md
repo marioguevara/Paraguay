@@ -1,5 +1,8 @@
 # Paraguay
-Mapeo digital de carbono del suelo en Paraguay FAOGSP
-Arnulfo, Victor y Mario
-Colocar Resumen
-en este repositorio esta el codigo para reproducir la cartografia de Carbono organico
+Mapeo digital de carbono del suelo en Paraguay, FAO-GSP-2019
+Victor Sevilla, Mario Mario Guevara y Arnulfo Encina
+
+Alianza Latinoamericana y Centroamericana por el Suelo. 
+
+Objetivo: Validacion de la contribucion de Paraguay al mapa global de Carbono
+en el suelo de las Naciones Unidas. 
